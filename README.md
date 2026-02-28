@@ -1,10 +1,6 @@
 <h1 align="center">🔥 I'm Quentin Dufour 🔥</h1>
 <h3 align="center">Full-Stack Developer · Applied AI · Engineering Student · Always Building</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaiiine&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -82,7 +78,7 @@ Deepen expertise in backend architecture & MLOps
 
 📍 Bourg-la-Reine, France  
 📧 quentin.dufour@epfedu.fr  
-🔗 LinkedIn: ADD_YOUR_LINK  
+🔗 LinkedIn: https://www.linkedin.com/in/quentin-dufourr/
 
 ---
 
