@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&width=980&lines=%24+whoami+%E2%86%92+Quentin+Dufour;%24+role+%E2%86%92+Full-Stack+Developer+%C3%97+Applied+AI;%24+focus+%E2%86%92+build+real-world+AI+products;%24+status+%E2%86%92+Open+to+Full-Stack+%2F+AI+Alternance" alt="Typing SVG" />
 
 [![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://github.com/kaiiine)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-quentin--dufourr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufourr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-quentin--dufour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufour/)
 [![Email](https://img.shields.io/badge/Email-quentin.dufour@epfedu.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quentin.dufour@epfedu.fr)
 
 ![Open To](https://img.shields.io/badge/Open%20To-Full--Stack%20%2F%20Applied%20AI%20Alternance-7c3aed?style=flat-square)
@@ -191,6 +191,6 @@ Expérience web immersive en Next.js intégrant des éléments Three.js
 
 ### `> ping quentin --for "AI / Full-Stack collaboration"`
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufourr/)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufour/)
 
 </div>
