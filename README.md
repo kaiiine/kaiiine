@@ -1,178 +1,196 @@
-<!-- ═══════════════════════════════════════════════════ -->
-<!--          QUENTIN DUFOUR — GitHub Profile README          -->
-<!-- ═══════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║  $ whoami                                            ║
-║  > Quentin Dufour — Full-Stack Engineer & AI Builder ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e1b4b,100:0ea5e9&text=Quentin%20Dufour&fontSize=52&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%A8%AF%20Applied%20AI%20Builder&descAlignY=58&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="header" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-quentin--dufourr-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufourr/)
-[![Email](https://img.shields.io/badge/Email-quentin.dufour@epfedu.fr-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:quentin.dufour@epfedu.fr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kaiiine-00ff9d?style=flat-square&logo=vercel&logoColor=black)](https://github.com/kaiiine)
-![Location](https://img.shields.io/badge/📍-Bourg--la--Reine,_France-555?style=flat-square)
-![Status](https://img.shields.io/badge/🔍_Open_to-Alternance_2026-7b2ff7?style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=850&color=22D3EE&center=true&vCenter=true&width=980&lines=%24+whoami+%E2%86%92+Quentin+Dufour;%24+role+%E2%86%92+Full-Stack+Developer+%C3%97+Applied+AI;%24+focus+%E2%86%92+build+real-world+AI+products;%24+status+%E2%86%92+Open+to+Full-Stack+%2F+AI+Alternance" alt="Typing SVG" />
+
+[![Arch Linux](https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://github.com/kaiiine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-quentin--dufourr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufourr/)
+[![Email](https://img.shields.io/badge/Email-quentin.dufour@epfedu.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quentin.dufour@epfedu.fr)
+
+![Open To](https://img.shields.io/badge/Open%20To-Full--Stack%20%2F%20Applied%20AI%20Alternance-7c3aed?style=flat-square)
+![Location](https://img.shields.io/badge/Based%20In-Bourg--la--Reine%2C%20France-374151?style=flat-square)
 
 </div>
 
----
-
-## `> init profile`
-
-```ts
-const quentin = {
-  role     : "Full-Stack Developer × Applied AI",
-  school   : "EPF Engineering School Paris Cachan (Bac+5, 4th year)",
-  xp       : "3 years — industrial & associative projects",
-  passions : ["Machine Learning", "MLOps", "Clean Architecture", "3D Web"],
-  status   : "🔍 Looking for a Full-Stack / AI Apprenticeship"
-};
-```
-
-> I build **scalable web applications** and explore how **Artificial Intelligence**  
-> can be integrated into real-world production systems.
-
----
-
-## `> tech --stack`
-
-<details open>
-<summary><b>💻 Languages</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1040,100:0d1117&height=72&text=About%20me&fontColor=22d3ee&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
 
-</details>
-
-<details open>
-<summary><b>🌐 Frontend</b></summary>
 <br>
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-</details>
-
-<details open>
-<summary><b>🔧 Backend</b></summary>
-<br>
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🧠 AI / ML</b></summary>
-<br>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ DevOps & Tools</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
----
-
-## `> experience --recent`
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  💼 Web Developer — Opper                  2025 · 3 mois │
-│  📍 Issy-les-Moulineaux (92)                            │
-│                                                         │
-│  › Migration Symfony PHP 5.x → 8.2                     │
-│  › Refonte d'API NestJS/Symfony + intégration Mercure   │
-│  › Dev full-stack Angular, optimisation des perfs       │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│  🏗️  Responsable SI — EPF Projets           2025 · 6 mois│
-│  📍 Junior Entreprise, Cachan (94)                      │
-│                                                         │
-│  › Pilotage stratégique du SI + infrastructure OVH      │
-│  › Encadrement d'équipe & transformation numérique      │
-└─────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────┐
-│  🤝 Membre SI — EPF Projets               2023–2024 · 1 an│
-│                                                         │
-│  › Gestion de projets clients (budget, planning)        │
-│  › Coordination des livrables & relation client         │
-└─────────────────────────────────────────────────────────┘
-```
-
----
-
-## `> projects --featured`
-
-| Projet | Stack | Description |
-|--------|-------|-------------|
-| 🧠 **[Legal AI Assistant](https://github.com/epf-projet-chatbot/rag)** | `Python` `LangChain` `ChromaDB` `FastAPI` | Assistant juridique basé sur une architecture RAG — vectorisation de docs & pipeline de retrieval |
-| ⚡ **[Neural Network from Scratch](https://github.com/kaiiine/java-neural-network)** | `Java` `Python` `PyTorch` | Implémentation complète d'un réseau de neurones multicouches |
-| 🌐 **[3D Showcase Website](https://github.com/kaiiine/new-3d-showcase-website)** | `Next.js` `TypeScript` `Three.js` | Site vitrine immersif avec éléments 3D interactifs |
-| 🤖 **[AI Agent](https://github.com/kaiiine/ai-agent)** | `Python` | Agent IA autonome |
-
----
-
-## `> goals --year 2026`
-
-```
-[ ] 🎯  Décrocher une alternance Full-Stack / Applied AI
-[ ] 🚀  Déployer des systèmes IA en production
-[ ] 📚  Approfondir backend architecture & MLOps
-[ ] 🛠️  Contribuer à des projets open-source IA
-```
-
----
-
-## `> stats`
 
 <div align="center">
 
-![Quentin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiiine&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00c9ff&text_color=c9d1d9)
+Étudiant ingénieur **4A @ EPF Engineering School** · Bac+5 · 2022–2027
+Passionné par l'IA appliquée · **3 ans** d'expérience en projets industriels & associatifs
+Je transforme des idées en systèmes robustes — **du prototype à la production**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiiine&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=c9d1d9)
+<br>
+
+| 🤖 RAG & Agents IA | 🏗️ Clean Architecture | ⚡ ML / MLOps |
+|:---:|:---:|:---:|
+| 🌐 Web 3D immersif | 🔌 API Design & Delivery | 🧠 Neural Networks |
 
 </div>
 
----
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1040,100:0d1117&height=72&text=Tech%20Stack&fontColor=22d3ee&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br>
 
 <div align="center">
 
-```
-═══════════════════════════════════════════
-  📍 Bourg-la-Reine, France  |  🇫🇷 🇬🇧 🇪🇸
-  quentin.dufour@epfedu.fr
-  ─────────────────────────────────────────
-  " Always learning. Always building. "
-═══════════════════════════════════════════
-```
+![Skills](https://skillicons.dev/icons?i=python,java,ts,js,php,react,nextjs,angular,vue,nestjs,symfony,spring,fastapi,pytorch,tensorflow,docker,linux,mongodb,git&perline=7)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1040,100:0d1117&height=72&text=Projects&fontColor=22d3ee&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**[🤖 AI Agent](https://github.com/kaiiine/ai-agent)**
+Assistant IA multi-outils avec orchestration d'agents
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=22d3ee)
+
+</td>
+<td valign="top" width="50%">
+
+**[🧠 Legal AI RAG](https://github.com/epf-projet-chatbot/rag)**
+Architecture RAG + API FastAPI — assistant juridique
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=22d3ee)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**[⚡ Java Neural Network](https://github.com/kaiiine/java-neural-network)**
+Réseau de neurones from scratch en Java
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=22d3ee)
+
+</td>
+<td valign="top" width="50%">
+
+**[⚡ Python Neural Network](https://github.com/kaiiine/python-neural-network)**
+Moteur neural network from scratch en Python
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=22d3ee) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=22d3ee)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2">
+
+**[🌐 3D Showcase Website](https://github.com/kaiiine/new-3d-showcase-website)**
+Expérience web immersive en Next.js intégrant des éléments Three.js
+
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=22d3ee) ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=flat-square&logo=threedotjs&logoColor=22d3ee) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=22d3ee)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1040,100:0d1117&height=72&text=Experience&fontColor=22d3ee&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="110"><b>2025</b></td>
+<td><b>Développeur Web — Opper</b> · Issy-les-Moulineaux (92)</td>
+</tr>
+<tr>
+<td></td>
+<td>Migration Symfony PHP 5.x → 8.1/8.2 · Refonte API NestJS · Temps réel Mercure · Angular<br><br>
+<img src="https://img.shields.io/badge/NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Symfony-0d1117?style=flat-square&logo=symfony&logoColor=22d3ee" />
+<img src="https://img.shields.io/badge/Angular-0d1117?style=flat-square&logo=angular&logoColor=22d3ee" />
+</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td><b>2025</b></td>
+<td><b>Responsable SI — EPF Projets</b> · Junior Entreprise, Cachan (94)</td>
+</tr>
+<tr>
+<td></td>
+<td>Pilotage SI · Infra OVH · Encadrement équipe · Transformation numérique</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td><b>2023</b></td>
+<td><b>Membre SI — EPF Projets</b> · Junior Entreprise, Cachan (94)</td>
+</tr>
+<tr>
+<td></td>
+<td>Gestion projets clients · Stratégie · Budget · Planning · Livrables</td>
+</tr>
+<tr><td colspan="2"><br></td></tr>
+<tr>
+<td><b>2022 →</b></td>
+<td><b>EPF Engineering School Paris Cachan</b> · Diplôme Ingénieur Bac+5 · 4ᵉ année · 2027</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1040,100:0d1117&height=72&text=GitHub%20Stats&fontColor=22d3ee&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiiine&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=7c3aed&text_color=94a3b8&rank_icon=github)](https://github.com/kaiiine)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiiine&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=94a3b8)](https://github.com/kaiiine)
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1040,100:0d1117&height=72&text=Status%202026&fontColor=22d3ee&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+
+![Alternance](https://img.shields.io/badge/Open%20to-Alternance%20Full--Stack%20%2F%20Applied%20AI-7c3aed?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/Focus-Backend%20Architecture%20%26%20MLOps-0ea5e9?style=for-the-badge)
+![Building](https://img.shields.io/badge/Status-Actively%20Building-22d3ee?style=for-the-badge)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0f172a&height=120&section=footer&text=Always%20learning.%20Always%20building.&fontColor=22d3ee&fontSize=28&fontAlignY=62" width="100%" alt="footer" />
+
+### `> ping quentin --for "AI / Full-Stack collaboration"`
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentin-dufourr/)
 
 </div>
